@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\tests\\HC.Codeflix.Catalog.UnitTests\\HC.Codeflix.Catalog.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Application\\HC.Codeflix.Catalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Application\\HC.Codeflix.Catalog.Application.csproj",
+        "projectName": "HC.Codeflix.Catalog.Application",
+        "projectPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Application\\HC.Codeflix.Catalog.Application.csproj",
+        "packagesPath": "C:\\Users\\UFPE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UFPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Domain\\HC.Codeflix.Catalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Domain\\HC.Codeflix.Catalog.Domain.csproj",
+        "projectName": "HC.Codeflix.Catalog.Domain",
+        "projectPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Domain\\HC.Codeflix.Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\UFPE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UFPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\tests\\HC.Codeflix.Catalog.UnitTests\\HC.Codeflix.Catalog.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\tests\\HC.Codeflix.Catalog.UnitTests\\HC.Codeflix.Catalog.UnitTests.csproj",
+        "projectName": "HC.Codeflix.Catalog.UnitTests",
+        "projectPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\tests\\HC.Codeflix.Catalog.UnitTests\\HC.Codeflix.Catalog.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\UFPE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\tests\\HC.Codeflix.Catalog.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UFPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Application\\HC.Codeflix.Catalog.Application.csproj": {
+                "projectPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Application\\HC.Codeflix.Catalog.Application.csproj"
+              },
+              "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Domain\\HC.Codeflix.Catalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\UFPE\\Desktop\\HugoCamp\\HC.Codeflix.Catalog\\src\\HC.Codeflix.Catalog.Domain\\HC.Codeflix.Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

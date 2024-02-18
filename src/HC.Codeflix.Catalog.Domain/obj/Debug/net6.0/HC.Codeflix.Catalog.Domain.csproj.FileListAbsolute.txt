@@ -1,0 +1,11 @@
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\bin\Debug\net6.0\HC.Codeflix.Catalog.Domain.deps.json
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\bin\Debug\net6.0\HC.Codeflix.Catalog.Domain.dll
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\bin\Debug\net6.0\HC.Codeflix.Catalog.Domain.pdb
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\HC.Codeflix.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\HC.Codeflix.Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\HC.Codeflix.Catalog.Domain.AssemblyInfo.cs
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\HC.Codeflix.Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\HC.Codeflix.Catalog.Domain.dll
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\refint\HC.Codeflix.Catalog.Domain.dll
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\HC.Codeflix.Catalog.Domain.pdb
+C:\Users\UFPE\Desktop\HugoCamp\HC.Codeflix.Catalog\src\HC.Codeflix.Catalog.Domain\obj\Debug\net6.0\ref\HC.Codeflix.Catalog.Domain.dll
